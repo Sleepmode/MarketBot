@@ -1,2 +1,2 @@
-Program runs on Python 3.4
-GUI created with pyQT5 designer tool
+Program runs on Python 3.4  
+GUI created with pyQT5 designer tool  
